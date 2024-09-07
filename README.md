@@ -22,7 +22,7 @@ Delft University of Technology : Faculty Technology, Policy and Management.
 
 ### Purpose:
 
-The data and the model are created for a project in the cSEN9110 Simulation Masterclass course of the TU Delft. Code is created to fulfill the paper assignment and the simulation assignments.
+The data and the model are created for a project in the SEN9110 Simulation Masterclass course of the TU Delft. Code is created to fulfil the paper assignment and the simulation assignments.
 
 ### General information:
 
