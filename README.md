@@ -22,7 +22,7 @@ Delft University of Technology : Faculty Technology, Policy and Management.
 
 ### Purpose:
 
-The data and the model are created for a project in the cSEN9110 Simulation Masterclass course of the TU Delft. Code is created to fulfill the paper assignment and the simulation assignments.
+The data and the model are created for a project in the SEN9110 Simulation Masterclass course of the TU Delft. Code is created to fulfil the paper assignment and the simulation assignments.
 
 ### General information:
 
@@ -53,31 +53,28 @@ Various Python files are included. Each has its purpose which will be briefly ex
 The folder has a specific structure that is as follows:
 
     EPA133a-G07-A3/
-        ├── data/
-        ├── experiment/
-        ├── img/
-        ├── model/
-        ├── notebook/
-        └── report/
+        ├── .idea/
+        ├── DBFiles/
+        ├── Data/
+        ├── ImagePlots/
+        └── model/
 
 ### Usage
 
-If the file structuring is similar to the one given above the model_batch.py, model_run.py and model_viz.py files are enough to access all the functionalities of the project code. The "Purpose code files" define what the files do. If one wants to clean the raw Bangladesh bridge data the data_bridges.py file can be used. Afterwards, intersections can be retrieved using the intersections.py file. The data_alignment.py file aligns the cleaned bridges with intersections. The links.py can be used to create the bridges_intersected_linked.csv dataset. Lastly, the bonus_assignment.py includes the bonus assignment for this project.
+If the file structuring is similar to the one given above the XXXXX files are enough to access all the functionalities of the project code. The "Purpose code files" define what the files do.
+#### ADD MORE
 
 
 ### Assistance during code creation
 
 Instructor:
-
--   Y. Huang - [Y.Huang@tudelft.nl](mailto:Y.Huang@tudelft.nl)
 -   Prof.dr.ir. A. Verbraeck - [A.Verbraeck@tudelft.nl](mailto:A.Verbraeck@tudelft.nl)
 
 Teaching assistant:
 
--   Angela Camarena Barba - [A.CamarenaBarba@student.tudelft.nl](mailto:A.CamarenaBarba@student.tudelft.nl)
 
 ### Contact
 
 All questions about the code, project, or anything else can be sent to the following email:
 
-[n.a.augustinus@tudelft.nl](mailto:n.a.augustinus@tudelft.nl)
+[R.Kooijman-1@student.tudelft.nl](mailto:R.Kooijman-1@student.tudelft.nl)
